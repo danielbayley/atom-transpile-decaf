@@ -45,7 +45,7 @@
         "decaf",
         "decaffeinate"
       ],
-      "default": "decaf"
+      "default": "decaffeinate"
     }
   }
 }
