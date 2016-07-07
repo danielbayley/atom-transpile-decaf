@@ -1,8 +1,8 @@
 [![apm]](https://atom.io/packages/transpile-decaf)
 
-[Atom][] [Decaf]
-================
-[Decaf][][feinate] your [CoffeeScript] to [ES*] in [Atom].
+Atom _[Decaf]_
+==============
+_[Decaf][][feinate]_ your [CoffeeScript] to [ES*] in [Atom].
 
 [Another] plugin for [atom-transpile].
 
