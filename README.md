@@ -4,7 +4,11 @@ Atom _[Decaf]_
 ==============
 _[Decaf][][feinate]_ your [CoffeeScript] to [ES*] in [Atom].
 
-[Another] plugin for [atom-transpile].
+[Another] plugin for _[atom-transpile]_.
+
+Settings
+--------
+The package settings offer an alternative transpiler to use for conversion. The current choice is between _[decaf]_ and the default _[decaffeinate][feinate]_.
 
 Install
 -------
