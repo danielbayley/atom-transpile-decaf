@@ -1,6 +1,6 @@
 {
   "name": "transpile-decaf",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Decaffeinate your CoffeeScript to ES*.",
   "keywords": [
     "transpile",
