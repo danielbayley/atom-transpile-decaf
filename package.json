@@ -7,7 +7,7 @@
     "refactor",
     "coffeescript",
     "javascript",
-    "es6"
+    "ES6"
   ],
   "homepage": "https://atom.io/packages/transpile-decaf",
   "repository": {
